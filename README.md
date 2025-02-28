@@ -5,10 +5,11 @@
 🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Tailwind CSS  
 🔹 **Currently Learning:** React, C++ (DSA)  
 🔹 **Projects:**  
-  - **NutriLens** (🚧 Work in Progress)
-  - [Sarcasm X](https://sarcasm-x.vercel.app/) - Detects sarcasm using LLaMA  
-  - [Lexi Search](https://66f1b41482cdde767cf1ec93--sunny-sundae-c9d4ca.netlify.app/) - AI-powered search  
-  - [Savage Sparks](https://savage-sparks.vercel.app/) - AI-generated roasts  
+  - **[Netflix Clone](https://netflix-clone-navy-kappa.vercel.app/)** - Netflix frontend built with Tailwind CSS  
+  - **[Sarcasm X](https://sarcasm-x.vercel.app/)** - Detects sarcasm using LLaMA  
+  - **[Lexi Search](https://66f1b41482cdde767cf1ec93--sunny-sundae-c9d4ca.netlify.app/)** - AI-powered search  
+  - **[Savage Sparks](https://savage-sparks.vercel.app/)** - AI-generated roasts  
+  - **NutriLens (🚧 Work in Progress)** 
 
 📫 **Connect with me:**  
 [![X (Twitter)](https://img.shields.io/badge/X-%40puneetdev__-black?style=flat&logo=twitter)](https://twitter.com/puneetdev_)  
