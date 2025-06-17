@@ -9,7 +9,8 @@
   - **[Sarcasm X](https://sarcasm-x.vercel.app/)** – Detects sarcasm using LLaMA  
   - **[Lexi Search](https://66f1b41482cdde767cf1ec93--sunny-sundae-c9d4ca.netlify.app/)** – AI-powered search  
   - **[Savage Sparks](https://savage-sparks.vercel.app/)** – AI-generated roasts  
-  - **[NutriLens](https://codeforces-project.vercel.app/)** – AI-based web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts  
+  - **[NutriLens](https://codeforces-project.vercel.app/)** – AI-based web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts
+  - **[VibeSync](https://vibe-sync-six.vercel.app/)** – Music player that lets users download any song for free, ad-free experience  
   - **Edunotes & more (🚧 Work in Progress)**
 
 📫 **Connect with me:**  
