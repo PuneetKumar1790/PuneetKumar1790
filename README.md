@@ -19,8 +19,5 @@
 📊 **GitHub Stats**  
 ![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuneetKumar1790&show_icons=true&theme=dark)  
 
-🔥 **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetKumar1790&layout=compact&theme=dark)
-
 ---
 ⭐️ *Check out my repositories for more cool projects!*
