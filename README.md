@@ -11,7 +11,7 @@
   - **[Savage Sparks](https://savage-sparks.vercel.app/)** – AI-generated roasts  
   - **[NutriLens](https://codeforces-project.vercel.app/)** – AI-based web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts  
   - **[VibeSync](https://vibe-sync-six.vercel.app/)** – Music player that lets users download any song for free, ad-free experience  
-  - **[YT Grabber](https://github.com/PuneetKumar1790/YTGrabber-)** – Backend + frontend app to download YouTube videos and metadata  
+    - **[YTGrabber](https://github.com/PuneetKumar1790/YTGrabber)** – Download high-quality YouTube videos (up to 1080p) without ads, Premium, or trackers. Built with `Node.js`, `yt-dlp`, `ffmpeg`. Runs locally, supports Android via Termux. 
   - **Edunotes & more (🚧 Work in Progress)**
 
 📫 **Connect with me:**  
