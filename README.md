@@ -16,6 +16,7 @@
   - **[8×8 Wars](https://8x8-wars.vercel.app/)** – A browser chess game where you can easily beat LLMs.  
     > “As the creator of 8×8 Wars, I built this to make you feel like Magnus Carlsen… even if you’re not — because sure, LLMs know the rules, but they still panic under pressure.”  
     > — Puneet  
+  - **Twitter Bot** – An automated bot that posts developer and founder-style content daily — designed for learning in public and building a consistent presence.  
   - **Edunotes & more (🚧 Work in Progress)**
 
 📫 **Connect with me:**  
