@@ -17,7 +17,8 @@
     > “As the creator of 8×8 Wars, I built this to make you feel like Magnus Carlsen… even if you’re not — because sure, LLMs know the rules, but they still panic under pressure.”  
     > — Puneet  
   - **Twitter Bot** – An automated bot that posts developer and founder-style content daily — designed for learning in public and building a consistent presence.  
-  - **Edunotes & more (🚧 Work in Progress)**
+  - 🚀 Launching my first product on Product Hunt soon… 👀
+#WIP #ComingSoon
 
 📫 **Connect with me:**  
 [![X (Twitter)](https://img.shields.io/badge/X-%40puneetdev__-black?style=flat&logo=twitter)](https://twitter.com/puneetdev_)  
