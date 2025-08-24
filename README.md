@@ -2,8 +2,25 @@
 
 🚀 Web Developer | AI Enthusiast | CS Hons Student at DU
 
-🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, Ffmpeg ,DRM , DASH , Microsoft Azure , Apache kafka , CI/CD , JWT , Firebase , API Security  
+🔹 **Tech Stack:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</p>
+
+➡️ DRM • DASH • CI/CD • JWT • API Security  
+
 🔹 **Currently Learning:** React, C++ (DSA)  
+
 🔹 **Projects:**  
   - **[Netflix Clone](https://netflix-clone-navy-kappa.vercel.app/)** – Netflix frontend built with Tailwind CSS  
   - **[Sarcasm X](https://sarcasm-x.vercel.app/)** – Detects sarcasm using LLaMA  
