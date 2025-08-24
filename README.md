@@ -2,7 +2,7 @@
 
 🚀 Web Developer | AI Enthusiast | CS Hons Student at DU
 
-🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Tailwind CSS  
+🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB, Tailwind CSS, Ffmpeg ,DRM , DASH , Microsoft Azure , Apache kafka , CI/CD , JWT , Firebase , API Security  
 🔹 **Currently Learning:** React, C++ (DSA)  
 🔹 **Projects:**  
   - **[Netflix Clone](https://netflix-clone-navy-kappa.vercel.app/)** – Netflix frontend built with Tailwind CSS  
