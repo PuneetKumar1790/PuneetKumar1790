@@ -34,15 +34,15 @@
     > “As the creator of 8×8 Wars, I built this to make you feel like Magnus Carlsen… even if you’re not — because sure, LLMs know the rules, but they still panic under pressure.”  
     > — Puneet  
   - **Twitter Bot** – An automated bot that posts developer and founder-style content daily — designed for learning in public and building a consistent presence.
-  - **College Visit Tracker** – A personal web app to track your college visits using DMRC/Airtel Metro SMS notifications.  
+  - **College Check-in** – A personal web app to track your college attendance using DMRC/Airtel Metro SMS notifications.  
   - 📲 **SMS Input:** Uses an F-Droid package to forward SMS from your device to the backend.  
   - 🗓️ **Features:**  
-    - Unique days visited each month  
+    - Unique days attended each month  
     - Monthly summary with total college visit days  
     - Helps maintain **minimum attendance** for your college courses  
     - Dynamic frontend with month filter and interactive view  
-    - ⚡ Built with `Node.js`, `Express`, `MongoDB`, and `Tailwind CSS`.  
-    - 🔒 **Security:** API secured with `X-Auth-Token` for safe SMS ingestion.
+    - ⚡ Built with `Node.js`, `Express`, `MongoDB`, and `Tailwind CSS`  
+    - 🔒 **Security:** API secured with `X-Auth-Token` for safe SMS ingestion  
     - 🔹 **Upcoming Feature:**  
     - Fare-based analysis to filter non-college trips for higher accuracy in tracking attendance
 
