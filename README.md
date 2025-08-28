@@ -41,10 +41,10 @@
     - Monthly summary with total college visit days  
     - Helps maintain **minimum attendance** for your college courses  
     - Dynamic frontend with month filter and interactive view  
-  - ⚡ Built with `Node.js`, `Express`, `MongoDB`, and `Tailwind CSS`.  
-  - 🔒 **Security:** API secured with `X-Auth-Token` for safe SMS ingestion.
-  - 🔹 **Upcoming Feature:**  
-  - Fare-based analysis to filter non-college trips for higher accuracy in tracking attendance
+    - ⚡ Built with `Node.js`, `Express`, `MongoDB`, and `Tailwind CSS`.  
+    - 🔒 **Security:** API secured with `X-Auth-Token` for safe SMS ingestion.
+    - 🔹 **Upcoming Feature:**  
+    - Fare-based analysis to filter non-college trips for higher accuracy in tracking attendance
 
  
   - 🚀 Launching my first product on Product Hunt soon… 👀
