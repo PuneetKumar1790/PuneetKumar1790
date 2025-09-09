@@ -27,7 +27,7 @@
 
 🔹 **Projects:**  
 
-1. **[NutriLens](https://codeforces-project.vercel.app/)** – AI-powered web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts. *(High technical depth + real-world utility)*  
+1. **[NutriLens](https://codeforces-project.vercel.app/)** – AI-powered web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts.  
 
 2. **[Sarcasm X](https://sarcasm-x.vercel.app/)** – Detects sarcasm using LLaMA for personalized text analysis.  
 
