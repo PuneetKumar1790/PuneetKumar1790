@@ -1,5 +1,5 @@
 # Hi there, I'm Puneet 👋  
-🚀 Web Developer | AI Enthusiast | CS Hons Student at DU  
+🚀 Full-Stack Developer | Backend & AI Enthusiast | CS Hons Student at DU
 
 ---
 
