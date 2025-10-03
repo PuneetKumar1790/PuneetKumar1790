@@ -25,7 +25,7 @@
 
 ## 🔹 Projects
 
-###  ShieldStream  
+### [ShieldStream](https://hack-odisha-5-0.vercel.app/)  
 Production-ready, piracy-proof video streaming backend API.  
 - Secure proxy architecture serving videos from Azure Blob Storage with dynamic SAS tokens.  
 - AES-128 encryption + JWT authentication.  
@@ -35,57 +35,57 @@ Production-ready, piracy-proof video streaming backend API.
 
 ---
 
-###  NutriLens  
+### [NutriLens](https://codeforces-project.vercel.app/)  
 AI-powered web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts.  
 
 ---
 
-###  Sarcasm X  
+### [Sarcasm X](https://sarcasm-x.vercel.app/)  
 Detects sarcasm using LLaMA for personalized text analysis.  
 
 ---
 
-###  Savage Sparks  
+### [Savage Sparks](https://savage-sparks.vercel.app/)  
 AI-generated roast generator with both personalized and random options.  
 
 ---
 
-###  YTGrabber  
+### [YTGrabber](https://github.com/PuneetKumar1790/YTGrabber)  
 Download high-quality YouTube videos (up to 1080p) without ads, Premium, or trackers.  
 - Built with Node.js, yt-dlp, ffmpeg.  
 - Runs locally & supports Android via Termux.  
 
 ---
 
-###  VibeSync  
+### [VibeSync](https://vibe-sync-six.vercel.app/)  
 Music player offering free downloads and an ad-free experience.  
 
 ---
 
-###  BDay Buzz  
+### [BDay Buzz](https://bday-buzz-kh86.vercel.app/index.html)  
 Birthday reminder app with JWT auth & automated email notifications.  
 - Tech: Node.js, Express, MongoDB, Nodemailer, cron jobs.  
 
 ---
 
-###  Lexi Search  
+### [Lexi Search](https://66f1b41482cdde767cf1ec93--sunny-sundae-c9d4ca.netlify.app/)  
 AI-powered search engine for smarter content discovery.  
 
 ---
 
-###  Netflix Clone  
+### [Netflix Clone](https://netflix-clone-navy-kappa.vercel.app/)  
 Netflix frontend built with Tailwind CSS. (Frontend showcase project)  
 
 ---
 
-###  8×8 Wars  
+### [8×8 Wars](https://8x8-wars.vercel.app/)  
 Browser chess game designed to beat LLMs.  
 
 > “As the creator of 8×8 Wars, I built this to make you feel like Magnus Carlsen… even if you're not — because sure, LLMs know the rules, but they still panic under pressure.” — Puneet  
 
 ---
 
-###  College Check-in  
+### College Check-in  
 Web app to track your college attendance using DMRC/Airtel SMS notifications.  
 
 📲 *SMS Input*: Uses an F-Droid package to forward SMS from device to backend.  
@@ -96,7 +96,7 @@ Web app to track your college attendance using DMRC/Airtel SMS notifications.
 
 ---
 
-###  Twitter Bot  
+### Twitter Bot  
 Automated bot that posts developer/founder-style content daily for learning in public.  
 
 🚀 Launching my first product on Product Hunt soon… 👀 #WIP #ComingSoon  
