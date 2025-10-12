@@ -25,16 +25,6 @@
 
 ## 🔹 Projects
 
-### [ShieldStream](https://hack-odisha-5-0.vercel.app/)  
-Production-ready, piracy-proof video streaming backend API.  
-- Secure proxy architecture serving videos from Azure Blob Storage with dynamic SAS tokens.  
-- AES-128 encryption + JWT authentication.  
-- Zero direct access URLs, 2-min token expiry, verifiable via browser inspection.  
-- Targeting EdTech platforms tackling ₹2,000 Cr annual piracy losses.  
-- B2B SaaS solution.  
-
----
-
 ### [NutriLens](https://codeforces-project.vercel.app/)  
 AI-powered web app that analyzes packaged food ingredients and rates nutritional value using custom LLM prompts.  
 
