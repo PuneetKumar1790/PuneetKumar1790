@@ -25,7 +25,7 @@
 
 ## 🔹 Projects
 
-### ShieldStream — built at HackOdisha 5.0, submitted on Devfolio  
+### [ShieldStream](https://hack-odisha-5-0.vercel.app/) — built at HackOdisha 5.0, submitted on Devfolio  
 🛡️ **Production-ready, piracy-proof video streaming backend API**.  
 - Secure proxy architecture serving videos from **Azure Blob Storage** with dynamic SAS tokens.  
 - **AES-128 encryption + JWT authentication** for every playback request.  
