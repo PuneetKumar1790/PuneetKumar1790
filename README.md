@@ -24,8 +24,7 @@
 ---
 
 ## 🔹 Projects
-
-
+### [ShieldStream]
 🛡️ **Piracy-resistant video streaming backend API**  
 - Secure proxy architecture serving videos from **Azure Blob Storage** with dynamic SAS tokens  
 - **AES-128 encryption + JWT authentication** for every playback request  
