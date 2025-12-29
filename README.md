@@ -3,21 +3,12 @@
 🧠 Systems-oriented Developer | Security & Program Analysis Enthusiast  
 🎓 Computer Science Undergrad — University of Delhi  
 
-I enjoy working close to the **core of software systems** — debugging, refactoring, analyzing behavior, and making complex codebases safer and easier to reason about.  
+I like working close to the **core of software systems** — understanding behavior, fixing subtle bugs, refactoring unsafe code, and improving long-term maintainability.  
 Currently exploring **reverse engineering, low-level internals, and tooling for program analysis**, alongside selective backend and applied AI work.
 
 ---
 
-## 🔹 Technical Focus
-
-### Core Interests
-- Program analysis & debugging  
-- Reverse engineering fundamentals  
-- Memory safety, refactoring & testability  
-- Tooling, CI, and developer ergonomics  
-- Security-aware systems design  
-
-### Languages & Tools
+## 🔹 Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -25,63 +16,55 @@ Currently exploring **reverse engineering, low-level internals, and tooling for 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
 </p>
 
-**Also worked with:**  
-Node.js, FFmpeg, Kafka, MongoDB, CI/CD, API security, JWT  
-
-🔹 Currently focusing on:  
-- Modern C++ practices (APIs, ownership, refactoring)  
-- Understanding large C/C++ codebases  
-- Debugging workflows & test-driven fixes  
+**Concepts & Practices:**  
+API Security • JWT • CI/CD • Secure token-based access • Input validation • Debugging & refactoring
 
 ---
 
-## 🔹 Selected Projects & Work
+## 🔹 Selected Projects
 
 ### ShieldStream  
 🛡️ **Security-focused backend system (API-first)**  
-- Designed token-based secure media delivery with **short-lived credentials**  
-- Emphasis on **threat modeling**, misuse prevention, and access control  
-- Focused on correctness, failure modes, and observability  
-
-> Built to reason about how systems fail — not just how they work.
+- Designed short-lived, token-based media access to prevent direct URL exposure  
+- Emphasis on **threat modeling, correctness, and failure modes**  
+- Built with observability and misuse prevention in mind  
 
 ---
 
 ### YTGrabber  
-🎥 CLI-style utility for controlled media extraction  
-- Built using **yt-dlp + FFmpeg**
-- Explored format parsing, stream handling, and error recovery  
-- Local-first execution (Linux / Termux friendly)
+🎥 Local utility for controlled media extraction  
+- Built using **yt-dlp + FFmpeg**  
+- Explored stream handling, format parsing, and error recovery  
+- Designed for Linux / Termux workflows  
 
 ---
 
 ### NutriLens  
-AI-assisted analysis tool for ingredient interpretation  
-- Emphasis on **input validation, prompt control, and deterministic scoring**
-- Focused on making LLM output *inspectable and bounded*
+AI-assisted packaged-food analysis tool  
+- Focused on **bounded prompts, deterministic scoring, and inspectable output**  
+- Emphasis on input validation and reproducibility  
 
 ---
 
 ### College Check-In System  
 Backend system integrating **external signals (SMS ingestion)**  
 - Designed ingestion → parsing → storage → analytics pipeline  
-- Focused on **idempotency, validation, and secure API access**
+- Focus on idempotency, validation, and secure APIs  
 
 ---
 
-## 🔹 Exploratory Work
-
-- Studying reverse engineering workflows & tooling  
-- Learning how large open-source C/C++ projects manage:
-  - ownership
-  - memory
-  - refactors
-  - long-term maintainability  
-
-- Light exposure to robotics & simulation concepts (ROS ecosystem)  
-  — mainly to understand how **complex systems expose state & behavior**
+## 🔹 Exploratory Work & Interests
+- Reverse engineering workflows & tooling  
+- Understanding large C/C++ codebases (ownership, memory, refactors)  
+- Debugging strategies and test-driven fixes  
+- Light exposure to robotics & simulation concepts (ROS ecosystem) to study how complex systems expose state and behavior  
 
 ---
 
@@ -92,4 +75,4 @@ Backend system integrating **external signals (SMS ingestion)**
 
 ---
 
-> I prefer **depth over breadth**, and I’m most interested in contributing where correctness, clarity, and long-term maintainability matter.
+> I value **clarity, correctness, and depth**, and I’m most interested in contributing to projects where maintainability and reasoning matter more than surface-level features.
