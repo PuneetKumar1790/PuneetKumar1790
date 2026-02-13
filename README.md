@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,firebase,tailwind,kafka" />
+  <img src="https://skillicons.dev/icons?i=azure,firebase,tailwind,kafka,docker" />
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg"
     alt="FFmpeg"
@@ -20,6 +20,7 @@
     style="vertical-align: middle; margin-left: 6px;"
   />
 </p>
+
 
 ➡ **DRM • DASH • CI/CD • JWT • API Security**
 
