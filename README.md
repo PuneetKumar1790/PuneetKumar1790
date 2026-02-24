@@ -7,11 +7,11 @@
 ### 🔹 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,postgres,mongodb" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,firebase,tailwind,kafka,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,kafka,tailwind,firebase" />
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg"
     alt="FFmpeg"
@@ -21,9 +21,7 @@
   />
 </p>
 
-
 ➡ **DRM • DASH • CI/CD • JWT • API Security**
-
 ---
 
 ### 📊 GitHub Stats
