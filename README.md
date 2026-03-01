@@ -1,27 +1,7 @@
 ## Hi there, I'm Puneet 👋
 
-**Full-Stack Developer | Backend & AI Enthusiast | CS undergrad at DU | 🏆 2× Solo Hackathon Winner**
+**Full-Stack Developer | Backend & AI/ML Enthusiast | CS undergrad at DU | 🏆 2× Solo Hackathon Winner**
 
----
-
-### 🔹 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,postgres,mongodb" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kafka,tailwind,firebase" />
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg"
-    alt="FFmpeg"
-    width="44"
-    height="44"
-    style="vertical-align: middle; margin-left: 6px;"
-  />
-</p>
-
-➡ **DRM • DASH • CI/CD • JWT • API Security**
 ---
 
 ### 📊 GitHub Stats
@@ -32,3 +12,7 @@
     alt="GitHub Streak Stats"
   />
 </p>
+
+---
+
+Reach me: puneetk49081@gmail.com
